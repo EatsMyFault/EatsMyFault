@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EatsMyFault/EatsMyFault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm EatsMyFault
 
-Here are some ideas to get you started:
+꾸준히 배우고, 만들고, 개선하는 개발자입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=EatsMyFault&style=flat-square&color=0e75b6)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EatsMyFault&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+<br />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EatsMyFault&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EatsMyFault&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-EatsMyFault-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EatsMyFault)
+
+</div>
