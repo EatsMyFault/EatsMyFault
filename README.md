@@ -2,7 +2,7 @@
 
 # Hi, I'm EatsMyFault
 
-꾸준히 배우고, 만들고, 개선하는 개발자입니다.
+UnrealEngine DigitalTwin 개발자 입니다.
 
 <br />
 
