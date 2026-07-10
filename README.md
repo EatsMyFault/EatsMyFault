@@ -43,5 +43,6 @@ UnrealEngine DigitalTwin 개발자 입니다.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-EatsMyFault-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EatsMyFault)
+[![Email](https://img.shields.io/badge/Email-hiwhdtjs%40smtcube.net-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hiwhdtjs@smtcube.net)
 
 </div>
