@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm EatsMyFault
+![Profile Banner](./resource/banner.svg)
 
 UnrealEngine DigitalTwin 개발자 입니다.
 
