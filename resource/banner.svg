@@ -63,7 +63,7 @@
     <rect x="250" y="166" width="100" height="26" rx="13" fill="#0F2942" stroke="#38BDF8" stroke-opacity="0.55"/>
     <text x="269" y="184" fill="#EAF6FF">Digital Twin</text>
 
-    <rect x="356" y="166" width="72" height="26" rx="13" fill="#0F2942" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <rect x="356" y="170" width="72" height="26" rx="13" fill="#0F2942" stroke="#38BDF8" stroke-opacity="0.55"/>
     <text x="376" y="184" fill="#EAF6FF">Backend</text>
   </g>
 </svg>
