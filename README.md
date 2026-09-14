@@ -23,7 +23,7 @@ UnrealEngine DigitalTwin 개발자 입니다.
 
 ---
 ## Experience & Education
-- 주식회사 스마트큐브 UnrealEngine DigitalTwin 개발자 (2026.06 ~)
+- UnrealEngine DigitalTwin 개발자 (2026.06 ~)
 - NHN SW Academy Java Backend 12기 수료 (2025.07 ~ 2026.01)
 - Chosun Univ. 전자공학부 지능 IoT 전공 (2026.02 졸업)
 ---
